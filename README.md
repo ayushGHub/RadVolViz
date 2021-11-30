@@ -3,3 +3,7 @@ We devise a new method that applies to volume data with more than three channels
 
 
 ![radvolviz_teaser](https://user-images.githubusercontent.com/29687795/144119428-f701b198-12b7-4209-868f-38623593a03c.png)
+
+
+## Contributions:
+[Ayush Kumar](https://github.com/ayushGHub)
